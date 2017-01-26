@@ -1,2 +1,2 @@
-# datasciencecoursera
-test repo
+# Practical machine learning project
+Submitted for evaluation
